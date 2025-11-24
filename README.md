@@ -1,55 +1,78 @@
-# 👋 Hi, I'm Sravani
+# 👋 Hi, I'm **Sravani**  
+### 💻 Aspiring **Software Developer** | 🚀 Building Scalable & User-Friendly Applications
 
-🎯 Aspiring **Data Analyst** with a passion for transforming data into actionable insights.
-
-📊 Skilled in **Excel**, learning **SQL**, and exploring **Power BI** and **Python** to expand my data toolkit.
-
----
-
-## 📌 About Me
-
-- 🎓 Computer Science student building a strong foundation in data analytics  
-- 🚀 Focused on gaining real-world experience through hands-on projects  
-- 🧠 Eager to grow skills in data cleaning, visualization, and dashboard creation  
-- 💼 Actively seeking internship opportunities in the field of **Data Analytics**
+Passionate about turning ideas into reality through clean code, meaningful projects, and continuous learning. I enjoy working across the full stack and crafting applications that solve real-world problems.
 
 ---
 
-## 💡 My Projects
+## 🛠️ Tech Stack
 
-### 🔹 [Excel Sales Dashboard](https://github.com/J-sravani19/Excel-sales-dashboard)
-An interactive sales dashboard built in **Microsoft Excel** using:
-- 📈 Slicers, PivotTables, and Conditional Formatting
-- 🧮 KPIs like total revenue, quantity sold, and profit by region
-- 🔄 Macros and checkboxes for automation and interactivity
+### **Languages**
+- Python  
+- JavaScript  
+- C++  
+- Java (Basics)
 
-> 📦 Includes:
-- 📷 Dashboard screenshot preview
-- 📊 Raw sales dataset
-- 📁 Downloadable Excel dashboard file with macros and slicers
+### **Web Development**
+- HTML, CSS, JavaScript  
+- React (Learning)  
+- Flask  
+- Node.js (Basics)
 
----
+### **Databases**
+- MySQL  
+- MongoDB (Basics)
 
-## 🛠️ Tools & Technologies
+### **Tools & Platforms**
+- Git & GitHub  
+- VS Code  
 
-`Excel` `Power Query` `Pivot Tables` `Slicers` `VBA Macros`  
-_Exploring:_ `SQL` `Power BI` `Python` `Pandas`
-
----
-
-## 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/jeedipalli-sravani)
-- 📧 Email: jeedipallisravani@gmail.com
 
 ---
 
-### 🔍 Upcoming Plans
+## 🚀 Featured Projects
 
-- ✅ Build more SQL & Power BI projects
-- ✅ Clean public datasets using Python and Pandas
-- ✅ Share my learning journey through GitHub
+### 🔹 **AI - Powered Sign Language Recognition System**
+Recognizes sign language alphabet gestures and converts them into text, translates the output into multiple Indian languages, and generates audio for accessibility.
+**Tech:** Python, OpenCV, TensorFlow/Keras, Flask, gTTS/pyttsx3, Google Translate API
+**Highlights:**
+- Real-time sign gesture detection using a trained deep learning model
+- Converts hand signs into corresponding English alphabet letters
+- Translates recognized text into Hindi, Telugu, and English
+- Provides audio output in the selected language
+- Simple web interface for easy interaction and real-time results 
 
 ---
 
-_Thanks for visiting my profile! Feel free to check out my projects or connect with me._
+### 🔹 **Lookalike Finder**
+Uploads an image and finds the closest match using feature extraction and also gives similarity score between two hand x-ray images.  
+**Tech:** Python, Flask, Numpy, Tensorflow  
+**Highlights:**  
+- Supports multiple image formats  
+- Feature extraction + similarity score  
+- Clean results dashboard  
+
+---
+
+## 📈 What I'm Learning Now
+- React for full-stack development  
+- REST APIs + database integrations  
+- Software architecture & best practices  
+- Version control (Git) mastery
+
+---
+
+## 🎯 Upcoming Goals
+- Build more full-stack apps (React + Flask)  
+- Improve backend development + SQL  
+- Contribute to open-source  
+- Upload more projects to GitHub  
+
+---
+
+## 📫 Connect With Me
+- **LinkedIn:** [https:linkedin.com/in/jeedipalli-sravani](https://www.linkedin.com/in/jeedipalli-sravani/)  
+- **Email:** jeedipallisravani@gmail.com
+
+---
+
