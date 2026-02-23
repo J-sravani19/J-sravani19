@@ -1,78 +1,18 @@
-# 👋 Hi, I'm **Sravani**  
-### 💻 Aspiring **Software Developer** | 🚀 Building Scalable & User-Friendly Applications
+# 💫 About Me:
+Computer Science student passionate about Artificial Intelligence and Machine Learning<br>Built AI-powered projects like Resume & Portfolio Builder and AI - Powered Sign Language Recognition System<br>Experienced with Python, CNN, Machine Learning, and API integration<br>Worked with Streamlit and Flask to develop and deploy web-based applications<br>Continuously learning advanced AI concepts and improving problem-solving skills<br>Interested in building real-world solutions using AI and machine learning.<br>
 
-Passionate about turning ideas into reality through clean code, meaningful projects, and continuous learning. I enjoy working across the full stack and crafting applications that solve real-world problems.
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeedipalli-sravani/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeedipallisravani@gmail.com) 
 
-## 🛠️ Tech Stack
-
-### **Languages**
-- Python  
-- JavaScript  
-- C++  
-- Java (Basics)
-
-### **Web Development**
-- HTML, CSS, JavaScript  
-- React (Learning)  
-- Flask  
-- Node.js (Basics)
-
-### **Databases**
-- MySQL  
-- MongoDB (Basics)
-
-### **Tools & Platforms**
-- Git & GitHub  
-- VS Code  
-
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=J-sravani19&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=J-sravani19&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=J-sravani19&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=J-sravani19&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Featured Projects
-
-### 🔹 **AI - Powered Sign Language Recognition System**
-Recognizes sign language alphabet gestures and converts them into text, translates the output into multiple Indian languages, and generates audio for accessibility.
-**Tech:** Python, OpenCV, TensorFlow/Keras, Flask, gTTS/pyttsx3, Google Translate API
-**Highlights:**
-- Real-time sign gesture detection using a trained deep learning model
-- Converts hand signs into corresponding English alphabet letters
-- Translates recognized text into Hindi, Telugu, and English
-- Provides audio output in the selected language
-- Simple web interface for easy interaction and real-time results 
-
----
-
-### 🔹 **Lookalike Finder**
-Uploads an image and finds the closest match using feature extraction and also gives similarity score between two hand x-ray images.  
-**Tech:** Python, Flask, Numpy, Tensorflow  
-**Highlights:**  
-- Supports multiple image formats  
-- Feature extraction + similarity score  
-- Clean results dashboard  
-
----
-
-## 📈 What I'm Learning Now
-- React for full-stack development  
-- REST APIs + database integrations  
-- Software architecture & best practices  
-- Version control (Git) mastery
-
----
-
-## 🎯 Upcoming Goals
-- Build more full-stack apps (React + Flask)  
-- Improve backend development + SQL  
-- Contribute to open-source  
-- Upload more projects to GitHub  
-
----
-
-## 📫 Connect With Me
-- **LinkedIn:** [https:linkedin.com/in/jeedipalli-sravani](https://www.linkedin.com/in/jeedipalli-sravani/)  
-- **Email:** jeedipallisravani@gmail.com
-
----
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
