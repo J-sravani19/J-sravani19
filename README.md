@@ -10,6 +10,10 @@ Computer Science student passionate about Artificial Intelligence and Machine Le
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=J-sravani19&show_icons=true&theme=dark)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=J-sravani19&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=J-sravani19&layout=compact&theme=dark)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=J-sravani19&icon=0&color=0)](https://visitcount.itsvg.in)
 
